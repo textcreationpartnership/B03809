@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lord Deputy and Council, for setting apart Thursday the 14th day of October next, as a day of solemn fasting and humiliation throughout this nation, with the grounds and reasons thereof.</title>
+            <author>Ireland. Lord Lieutenant (1658-1659 : Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03809</idno>
+            <idno type="STC">Wing I382B</idno>
+            <idno type="STC">ESTC R178630</idno>
+            <idno type="EEBO-CITATION">53981666</idno>
+            <idno type="OCLC">ocm 53981666</idno>
+            <idno type="VID">180254</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03809)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180254)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lord Deputy and Council, for setting apart Thursday the 14th day of October next, as a day of solemn fasting and humiliation throughout this nation, with the grounds and reasons thereof.</title>
+                  <author>Ireland. Lord Lieutenant (1658-1659 : Cromwell)</author>
+                  <author>Cromwell, Henry, 1628-1674.</author>
+               </titleStmt>
+               <extent>[4], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Wil. Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>Anno Domini, 1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within ornamental border.</note>
+                  <note>At head of text: H. Cromwell.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Dated at end: At the Council-chamber in Dublin, the 24 day of September, 1658.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Public worship --  Scotland --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180254:1" rendition="simple:additions"/>
+            <p>A DECLARATION of the LORD DEPUTY AND <hi>CO<g ref="char:V">Ʋ</g>NCIL,</hi> For ſetting apart <hi>Thurſday</hi> the 14<hi rend="sup">th</hi> day of <hi>October</hi> next, as a day of ſolemn Fa<g ref="char:EOLhyphen"/>ſting and Humiliation, through<g ref="char:EOLhyphen"/>out this NATION; <hi>With the Grounds and Reaſons thereof.</hi>
+            </p>
+            <p>By the Lord Deputy and Council.</p>
+            <p>ORdered by the Lord Deputy and Coun<g ref="char:EOLhyphen"/>cil, That this Declaration be forthwith printed and publiſhed.</p>
+            <p>
+               <hi>THO. HERBERT Cl. of the Council.</hi>
+            </p>
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN,</hi> Printed by <hi>Wil. Bladen,</hi> Anno Domini, 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:180254:2"/>
+            <pb n="1" facs="tcp:180254:2"/>
+            <head>¶ By the Lord Deputy AND COUNCIL.</head>
+            <opener>
+               <salute>H. Cromwell.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">G</seg>OD bleſſed for evermore, who <hi>worketh all things after the Counſel of his own will,</hi> and giveth no account of any of his matters, having lately taken from our heads our Chief Ruler, under whoſe ſhadow we ſaid we ſhall live, (the Inſtrument of his Hand, whereby he hath wrought great things in and for theſe Nations) calls out aloud upon us to conſider it, and to lay it to heart, (other<g ref="char:EOLhyphen"/>wiſe we may be ſure there is <hi>evil to come</hi>) and to <hi>prepare to meet our God,</hi> even becauſe he hath done this unto us. We judg it our duty alſo to call upon all that fear the Lord in this Land, to labour that they may be found of him with us, in ways of unfeined Humiliation and Reformation, <hi>if it may be a lengthening of our tranquillity:</hi> For, when <hi>the people turneth not to him that ſmiteth them,</hi> neither <hi>do ſeek the Lord of Hoasts,</hi> what can be expected but that he ſhould ſet up Adverſaries, and joyn their enemies together, who ſhall <hi>devour them with open mouth?</hi> And in order to an univerſal Abaſement and Amendment of our ſelves, we think it moſt ſeaſonable and needfull to ſtir up our ſelves and all
+<pb n="2" facs="tcp:180254:3"/>under our care and charge ſeriouſly to conſider, That <hi>when Gods judgments</hi> of a publick and general concernment <hi>are abroad</hi> in a nation or among a people, ſuch a people ought to take ſpecial notice of Gods judgments: Thoſe that <hi>will not ſee when his hand is lifted up,</hi> he will make them both ſee and feel too, before he hath done with them. It was EPHRAIM'S folly, not to know when <hi>gray hairs,</hi> (ſigns of a decaying and declining condition) <hi>were here and there upon him;</hi> And it is one of the higheſt points of wiſ<g ref="char:EOLhyphen"/>dom in the world <hi>to hear</hi> the audible and awful <hi>voice of the Rod,</hi> and him <hi>who hath appointed it.</hi> They ought alſo then to <hi>ſearch</hi> out <hi>why the Lord contendeth with them,</hi> to con<g ref="char:EOLhyphen"/>feſs, lay to heart, and <hi>humble themſelves</hi> ſolemnly for their ſins, procuring ſuch judgments; To <hi>pray and ſeek Gods face</hi> earneſtly; To reform themſelves and their ways thoroughly and ſincerely; This is <hi>the work</hi> whereunto the Lord at this day calleth us. And oh that our LORD, when he cometh to take a view of us, might (through the help of his bleſſed Spirit) <hi>find us ſo doing!</hi>
+            </p>
+            <p>Conſider we alſo that God hath taken away, &amp; threat<g ref="char:EOLhyphen"/>ned to take away <hi>Chief Rulers</hi> and <hi>Governours,</hi> and him that holdeth the Scepter; both, for the Sins of the Cheif Rulers themſelves: as, for <hi>not believing</hi> fully in God, for <hi>not Sanctifying God before the People,</hi> and other miſcarria<g ref="char:EOLhyphen"/>ges: and for the Sins of the people under their Rule and Government; as, their relying and <hi>truſting to their own wiſdom,</hi> way, and Arme of fleſh, rather then on the Lord; their <hi>forgetting</hi> and <hi>forſaking God;</hi> their <hi>deſpiſing his word</hi> and warnings; their <hi>mocking and miſuſing his meſſengers;</hi> their perſiſting and <hi>proceeding on still to do wickedly,</hi> even in deſpight of all Gods mercyes, and judgements; their griev<g ref="char:EOLhyphen"/>ing the Spirits of their Rulers, by their diſcontents, mur<g ref="char:EOLhyphen"/>murings and ſtrivings, and the like: And for the ſins of the Prophets and Miniſters, their unfaithfulneſs, not
+<pb n="3" facs="tcp:180254:3"/>
+               <hi>diſcovering the peoples iniquities for preventing their captivity</hi> and calamity; but <hi>ſeeing vain and fooliſh things for them,</hi> and for the ſins of former Rulers, their <hi>Idolatry, Blood guiltineſs, Profaneneſs,</hi> theſe may bring on judgements and ruin, notwithſtanding the zeale and ſincere endeavours of their Succeſſors for a reformation. How ſhould the thoughts of theſe things pierce our hearts, together with the ſence of this ſevere ſtroak, wherewith the Lord hath at once ſmit<g ref="char:EOLhyphen"/>ten, not onely theſe three Nations, but all the profeſſors of the Proteſtant Religion.</p>
+            <p>Let us alſo conſider further, that God having honoured a people with great Privilidges, Deliverances and Salvati<g ref="char:EOLhyphen"/>ons, doth ſometimes <hi>after all the good</hi> that he hath done them, <hi>again do them hurt,</hi> judge and deſtroy them; and that eſpecially, for their <hi>ingratitude</hi> towards God, notwith<g ref="char:EOLhyphen"/>ſtanding all his great goodneſs, when they <hi>render not again according to the benefit done unto them;</hi> for their <hi>turning away their faces from the habitation of the Lord,</hi> and turning their back upon him, his Worſhip and Ordinances; for their <hi>
+                  <g ref="char:V">Ʋ</g>nbelief, Idolatry, <g ref="char:V">Ʋ</g>ncleanneſs,</hi> height of Impiety, and pro<g ref="char:EOLhyphen"/>faneneſs; for their <hi>Sorcery, Blood, Oppreſsion,</hi> and violence, <hi>diſhonest gain,</hi> and theft, <hi>profanation of the Sabboth,</hi> pollution of Gods Ordinances, violation of his <hi>Covenant, Curſing, Swearing,</hi> and for ſwearing; for their <hi>Murmuring</hi> againſt God and his Vice-gerents when afflictions preſs them; for their <hi>Barrenneſs</hi> under the means of grace, and contempt of the meſſengers thereof; for their hatred to <hi>Reformation,</hi> and <hi>Enmity againſt Christ</hi> and his Kingdom; and for their incorrigibleneſs and impenitency in all theſe, notwithſtand<g ref="char:EOLhyphen"/>ing all his ſmitings; Now <hi>ſhall not the Lord viſit for theſe things?</hi> and <hi>ſhall not his Soul be avenged on</hi> thoſe that wal<g ref="char:EOLhyphen"/>low in the guilt and filth of them? And are there not with us, even with us, ſuch Sins as theſe to be found againſt the Lord our God? Are there not groſs <hi>Hereſies</hi> and horrid
+<pb n="4" facs="tcp:180254:4"/>
+               <hi>Blaſphemies</hi> in the midſt of us? much <hi>Superstition</hi> and <hi>Ido<g ref="char:EOLhyphen"/>latry, Ignorance,</hi> and <hi>Blindneſs,</hi> not onely of the Papiſts, but of the generality of Proteſtants alſo? deadneſs and un<g ref="char:EOLhyphen"/>profitableneſs under the moſt lively and powerful means; neglect, contempt, reproach and prophanation of all the Ordinances of the Goſpel, and inſtituted worſhip of the Lord Ieſus. <hi>VVhat</hi> abuſe of <hi>the glorious and dreadful name of the Lord our God,</hi> not onely by cuſtomary and raſh <hi>Oaths</hi> and imprecations (which are uſually interwoven with the language of the Natives,) but alſo by formal giving and ta<g ref="char:EOLhyphen"/>king of oaths even in Courts and places of judicature, and by ſleight and heartleſs diſcourſes of Divine things; moſt men vain-gloriouſly aiming more therein to expreſs their own guifts, then to attain or exercize grace, or to mini<g ref="char:EOLhyphen"/>ſter and communicate it unto others? <hi>VVhat</hi> deſpiſing, un<g ref="char:EOLhyphen"/>dermining, and oppoſing the work, call, office, and per<g ref="char:EOLhyphen"/>ſons of <hi>Goſpel-Miniſters? VVhat</hi> profaning the <hi>Lords-day,</hi> not onely like beaſts in wayes of pleaſure, but like Devils ſpending that day in ſin againſt the Lord, which ſhould be ſpent in nigher communion with him? <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>hat</hi> un<g ref="char:EOLhyphen"/>thankfulneſs for mercies enjoyed? <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>hat</hi> fighting againſt God after mercies, under mercies, yea with our very mer<g ref="char:EOLhyphen"/>cies? <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>hat</hi> loathing and making light of all that which we have and do receive, becauſe of the abſence of ſome particulars which we deſire? And hath not <hi>Blood</hi> here <hi>reached blood?</hi> under the guilt whereof theſe Lands may yet juſtly be made to mourn; the blood of the Innocent ſhed by Enemies, and even the blood of the nocent ſhed by our ſelves, in an undue manner, without that grief and tenderneſs of Spirit vvhich became the <hi>followers of the Lamb</hi> the Lord Ieſus. <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>hat</hi> panting hath there been amongſt us after the duſt of the earth, as if all would not ſuffice for every man to take an handful? <hi>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>hat</hi> labouring to <hi>load our ſelves with thick clay? <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>hat</hi> covetous and greedy <hi>heaping
+<pb n="5" facs="tcp:180254:4"/>up</hi> wordly <hi>Riches?</hi> without regard to be <hi>rich in good works, rich in faith, poor in ſpirit? what</hi> ſeeking rather after a ſeem<g ref="char:EOLhyphen"/>ing then a real greatneſs; rather to be great in the ſight of men, then in the ſight of the Lord? <hi>what</hi> reſolving to get earth, though with the loſs of Heaven? what oppreſſing the poor Inhabitant, to eaſe and gratify the rich, in the ap<g ref="char:EOLhyphen"/>portioning and applotting the publique burthens and tax<g ref="char:EOLhyphen"/>es? <hi>what</hi> depriving the poorer ſort of the price and pur<g ref="char:EOLhyphen"/>chaſe of his blood and labour, by hard and circumvent<g ref="char:EOLhyphen"/>ing bargains &amp; inſnaring agreements? and yet that daugh<g ref="char:EOLhyphen"/>ter of the horſe Leach ſtill crying, give, give.</p>
+            <p>
+               <hi>VVhat diviſions</hi> and breaches have there been amongſt Brethren? and how many ſinfull conſequencies of thoſe diviſions? whiſpering, ſlandering, backbiting, reviling, and <hi>an anger which teares perpetually,</hi> (whereof God com<g ref="char:EOLhyphen"/>plaineth by the Prophet AMOS.) <hi>VVhat</hi> ſinful complian<g ref="char:EOLhyphen"/>ces even of ſubordinate Magiſtrates, Juſtices of the Peace, Officers of the Army, Miniſters of the Goſpel, and others, <hi>with the unfruitful works of darkneſs?</hi> not onely omitting the due Execution of the good Laws concerning Reformati<g ref="char:EOLhyphen"/>on: but too much patronizing wicked men in their evil ways for carnal ends; by which means alſo that great work of our Generation, in ſubduing the <hi>Iriſh</hi> Papiſts to the ſcepter of JESUS CHRIST, and removing from them the occaſions of ſin, in their uſage of many barba<g ref="char:EOLhyphen"/>rous and brutiſh cuſtoms, hath been in all places obſtru<g ref="char:EOLhyphen"/>cted; and in moſt, totally neglected. <hi>How little</hi> have god<g ref="char:EOLhyphen"/>lineſs and honeſty been regarded by many <hi>Magiſtrates,</hi> as if to ſee to theſe were not included in their Commiſſion? <hi>How little</hi> have many <hi>Miniſters</hi> attended the <hi>catechizing</hi> the ignorant, <hi>viſiting</hi> the ſick, <hi>rebuking</hi> the profane, <hi>inſtructing</hi> from houſe to houſe, the due exercize of diſcipline, and right adminiſtration of Sacraments? whereby not onely the popiſh and profane have been more alienated than e<g ref="char:EOLhyphen"/>ver,
+<pb n="6" facs="tcp:180254:5"/>from the truths and ways of God: but ignorance, he<g ref="char:EOLhyphen"/>reſie, heatheniſm and atheiſm increaſed; and through long faſting from the Inſtitutions of <hi>Chriſt,</hi> many have loſt their ſtomachs; and ſome, that very life which appeared formerly to act in them; and others unworthily parta<g ref="char:EOLhyphen"/>king thereof, have been hardened and nuzled up in their evil ways, and ſealed up under wrath and condemnation? <hi>How</hi> have <hi>Family duties</hi> in moſt places been neglected, even to provoke the LORD <hi>to pour out his wrath</hi> upon them, as upon <hi>the heathens that call not on his name? VVhat</hi> infidelity and diſtruſtfulneſs have prevailed in many ſpirits, in re<g ref="char:EOLhyphen"/>lation to our late Supream Magiſtrate, as if the Author of our mercies did not continue, &amp; his cauſe the ſame, if that eminent inſtrument were removed? Though we have ſo many precious promiſes, ſo many ſtrengthening experi<g ref="char:EOLhyphen"/>ences, as ſtays &amp; props to our hope, even under the great<g ref="char:EOLhyphen"/>eſt ſhakings, and many ſoverain Cordials to prevent faint<g ref="char:EOLhyphen"/>ing; God not having left himſelf without many witneſſes to his mercie, even to this <hi>day of trouble and treading down,</hi> which otherwiſe would have been indeed a day of grief, and of deſperate ſorrow. <hi>And how</hi> great hath been the <hi>Ingratitude</hi> and murmuring peeviſhneſs of others, as if our mercies were not mercies, becauſe themſelves were not the pipes of conveyance; or becauſe thoſe <hi>waters</hi> came not ſo plentifully into their <hi>Ciſterns</hi> as unto others?</p>
+            <p>
+               <hi>Theſe and ſuch like ſins</hi> as theſe, ſeem ſtampt (as it were) on the face of this judgment, and are to be eſpecially eyed in the frown thereof. And are they <hi>Chriſtians,</hi> are they <hi>men,</hi> who are without the ſenſe of theſe things? Have we like ſheep, wandered from our Shepheard, and from one another in this our ſun-ſhine? It is juſt for our God to ſend ſuch a ſtorm to drive us together, and into his fold. Have we played with the candle that burned ſo brightly among us, conſuming himſelf to guide and refreſh theſe Nations,
+<pb n="7" facs="tcp:180254:5"/>or have we puffed at it? it is juſt for God to put it out.</p>
+            <p>And doth not the LORD now call from heaven unto us, as ſometimes he did to backſliding ISRAEL, <hi>Gather your ſelves together, yea gather your ſelves, ſearch and ſift your ſelves, O Nation not deſired, before the decree bring forth,</hi> (which ſeems now to haſten to the birth) <hi>before the day paſs as the chaf,</hi> before all your light, and joy, and peace and plenty be blown away by the blaſt of the Lords diſplea<g ref="char:EOLhyphen"/>ſure; <hi>before the fierce anger of the Lord come upon you,</hi> before the day of the Lords anger come upon you? And we can not forbear, but call upon all the Lords people in this Land, as MOSES ſometimes did to the <hi>Iſraelites, <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>ho is on the Lords ſide among you? Conſecrate your ſelves to day unto the Lord, even every man</hi> by puniſhing and witneſſing a<g ref="char:EOLhyphen"/>gainſt ſin in his ſon, and in his brother; and eſpecially by doing execution upon it in himſelf; That he may beſtow a bleſſing upon us this day. Let us with one heart and mouth ſay, <hi>To us belongeth confuſion of face, to our Princes, to our fathers, and to our children; becauſe we have ſinned a<g ref="char:EOLhyphen"/>gainſt the Lord;</hi> Let us bewail and repent of our former <hi>doings, which were not good:</hi> not onely by ſorrowing for them, (for there is ſorrow enough even in hell;) not one<g ref="char:EOLhyphen"/>ly by wiſhing them undone, (for ſo far even <hi>Iudas</hi> went;) but by true <hi>repentance from dead works,</hi> turning again to the Lord <hi>to ſerve the living God.</hi> Let all the Magiſtrates of the Land, let all the <hi>Goſpel-Miniſters,</hi> let all the Officers and Souldiers, let both great and ſmall renew their <hi>Covenant,</hi> and engage their ſouls, and give the hand unto the Lord, and unto Vs, who do ſtretch forth ours unto you, ſaying, <hi>Come and let us return unto the Lord, for he hath torn and he will heal us, he hath ſmitten and he will bind us up.</hi>
+            </p>
+            <p>
+               <hi>And</hi> for our further help both in returning to him, and gaining ſome comfortable evidence that he doth accept us, and will heal us, It is ordered, That <hi>Thurſday</hi> the four<g ref="char:EOLhyphen"/>teenth
+<pb n="8" facs="tcp:180254:6"/>day of <hi>October</hi> next, be kept as an Holy day of Faſting and Prayer unto the Lord, <hi>That</hi> thereon we may <hi>afflict our ſouls</hi> before him, and lament, not ſo much the <hi>fall of our Crown</hi> and chief ornament, as our ſins that cauſed it: <hi>That</hi> the eyes of all our Tribes, as of one man, may be toward the Lord, to beg mercy for his poor Church here on earth, ſcattered over the face of the whole world: <hi>That</hi> the Rightouſneſs thereof may go forth as brightneſs, and the Salvation thereof as a lamp that burneth: and particu<g ref="char:EOLhyphen"/>larly, for that part thereof w<hi rend="sup">ch</hi> his <hi>own Right-hand hath plan<g ref="char:EOLhyphen"/>ted</hi> in theſe Nations, <hi>That</hi> he would <hi>extend peace unto it, like a River, and glory like a flowing ſtream;</hi> and to that end, <hi>That</hi> he would <hi>make his face to ſhine</hi> upon his Servant, whom the good hand of his providence hath now ſet over us; that as he hath called him to this great and weighty work, ſo he would carry him through it all his dayes in <hi>the everlaſting Armes</hi> of his power and goodneſs, to the glory of his own name, and the joy of theſe Nations; that ſo, he may prove <hi>the Miniſter of God</hi> indeed <hi>to us for good,</hi> for all manner of good, natural, moral, civil, Spiritual; <hi>That</hi> he would bleſs his HIGHNESS Councils in theſe three Nations, and cloath them with a ſpirit ſutable to their ſtations: and all other inferior Magiſtrates; <hi>That</hi> the <hi>mountains may drop down new wine,</hi> and the hills flow with milk; that the <hi>mountains may bring forth peace unto the people, and the little hills by rightouſneſs; That</hi> he would bleſs his HIGHNESS Forces both at home and abroad, by land and ſea; with the continuance of a ſpirit of love and faithfulneſs, and with good ſucceſs in all their lawful un<g ref="char:EOLhyphen"/>dertakings; <hi>That</hi> he would eſtabliſh and ſtrengthen his confederacies with other Nations, ſo far as may tend to the propagating the Goſpel, and to the preſervation and proſperity of the poor Proteſtants in other Countreys; <hi>That</hi> he would ſet up <hi>burning and ſhining lights</hi> in all the
+<pb n="9" facs="tcp:180254:6"/>dark corners of this land, and bleſs the labours of thoſe whom he hath already ſet and made faithful to the bring<g ref="char:EOLhyphen"/>ing in and building up of many ſouls, through the fellow<g ref="char:EOLhyphen"/>ſhip of the goſpel, in an everlaſting fellowſhip with the Father, &amp; the Son, by the communion of the holy Ghoſt.</p>
+            <p>And it is further Ordered, That the Sherifs of the ſeve<g ref="char:EOLhyphen"/>ral Counties in this Nation, do forthwith (after receipt hereof) diſtribute the ſaid Declarations to all and every the Miniſters within their reſpective Balywicks, to the intent that ſeaſonable and publick notice may be given unto the People by the Miniſters in every their reſpective Pariſhes and Congregations, upon the Lords-day preceding the ſaid fourteenth day of <hi>October.</hi> And the ſaid Miniſters are alſo to read this Declaration unto the People, at their being aſſembled upon the ſaid Faſt-day, appointed to be celebrated. For the better obſervation whereof, the ſervile works of mens ordinary Callings are to be for<g ref="char:EOLhyphen"/>born upon that day.</p>
+            <p>And all Sherifs, Mayors, Governors of Garriſons, Iu<g ref="char:EOLhyphen"/>ſtices of the Peace, Conſtables, and other Officers Civil and Military, are to take care that the ſaid day be ſolemnly kept and obſerved.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at the Council-chamber in</hi> Dublin, <date>
+                     <hi>the</hi> 24. <hi>day of</hi> September, 1658.</date>
+               </dateline>
+               <signed>
+                  <hi>W. Steele</hi> Can<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>R. Pepys, Miles Corbet, William Bury.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:180254:7"/>
+            <pb facs="tcp:180254:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
